@@ -27,12 +27,14 @@ h1{
     background-color: black;
     text-align: center;
     font-size: 50px;
+    border-radius: 15px;
 }
 h2{
     text-align: center;
     color: gold;
     background-color: black;
     font-size: 30px;
+    border-radius: 15px;
 }
 .hobis{
     display: flex;
@@ -55,6 +57,7 @@ h2{
 }
 .Momos img{
     height: 300px;
+    width: 250px;
     border-radius: 25px;
 }
 footer{
